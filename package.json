@@ -1,9 +1,10 @@
 {
-  "name": "musicbot",
+  "name": "your-app-name",
   "version": "1.0.0",
-  "description": "An Advanced Music Bot.",
-  "start": "node index.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
+    "start": "node index.js"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
