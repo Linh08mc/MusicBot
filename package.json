@@ -2,7 +2,7 @@
   "name": "musicbot",
   "version": "1.0.0",
   "description": "An Advanced Music Bot.",
-  "main": "index.js",
+  "start": "node index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
