@@ -16,9 +16,9 @@ app.listen(port, '0.0.0.0', () => {
 const { Manager } = require('erela.js');
 
 const nodes = [{
-  host: 'lavalinkv3.devxcode.in',
+  host: 'lavalink.serenetia.com',
   port: 80,
-  password: 'DevamOP',
+  password: 'https://dsc.gg/ajidevserver',
   secure: false,
 }];
 
@@ -137,7 +137,7 @@ client.once('ready', async () => {
   console.log(`Đã đăng nhập với tên ${client.user.tag}`);
   manager.init(client.user.id);
 
-  client.user.setActivity('/help | https://github.com/Unknownzop/MusicBot', { type: ActivityType.Listening });
+  client.user.setActivity('/help | @Nutifood', { type: ActivityType.Listening });
 
   try {
     console.log('Đang làm mới lệnh slash...');
