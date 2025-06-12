@@ -1,13 +1,18 @@
 {
-  "name": "your-app-name",
+  "name": "musicbot",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Discord Music Bot using Erela.js",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "discord",
+    "bot",
+    "music"
+  ],
+  "author": "Linh08mc",
   "license": "ISC",
   "dependencies": {
     "@discordjs/voice": "^0.18.0",
@@ -18,5 +23,9 @@
     "erela.js-filters": "^1.2.7",
     "erela.js-spotify": "^1.2.0",
     "express": "^5.1.0"
+  },
+  "engines": {
+    "node": ">=22.14.0",
+    "bun": ">=1.1.0"
   }
 }
