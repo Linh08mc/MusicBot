@@ -16,9 +16,9 @@ app.listen(port, '0.0.0.0', () => {
 const { Manager } = require('erela.js');
 
 const nodes = [{
-  host: 'lava-v3.ajieblogs.eu.org',
+  host: 'lavalinkv3.devxcode.in',
   port: 80,
-  password: 'https://dsc.gg/ajidevserver',
+  password: 'DevamOP',
   secure: false,
 }];
 
