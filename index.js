@@ -17,9 +17,9 @@ const { Manager } = require('erela.js');
 
 const nodes = [{
   name: 'xx',
-  host: 'meta.pylex.xyz',
-  port: 12217,
-  password: 'NhatDuck',
+  host: 'lavalink.serenetia.com',
+  port: 443,
+  password: 'https://dsc.gg/ajidevserver',
   secure: false,
 }];
 
