@@ -8,7 +8,7 @@ A feature-rich music bot for Discord that utilizes **discord.js**, **erela.js**,
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/MusicBot.git
+    git clone https://github.com/Linh08mc/MusicBot.git
    cd MusicBot
    
 
